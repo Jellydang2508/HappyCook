@@ -38,9 +38,9 @@ This project analyzes user behavior and monetization patterns in the mobile game
 - Average order value and revenue per user are highest around advanced levels (>100), suggesting deeper players are more monetizable.  
 - Retention after Day 1 drops rapidly, which could be addressed with early game engagement improvements.
 
-## 🖼 Dashboard Preview  
-<img src="images/business_performance.png" width="600"/>  
-<img src="images/purchase_in_app.png" width="600"/>  
-<img src="images/player_behavior.png" width="600"/>
+Download Dashboard File
 
-## 📁 File Structure
+You can download the full Power BI dashboard (.pbix) file here:  
+[happycook_dashboard.pbix (Google Drive)](https://drive.google.com/file/d/1WTq1JB1LJ1l2pEi7rE5831_7BiflrP6E/view?usp=sharing)
+
+*Note: The file is hosted on Google Drive due to GitHub’s 100MB file size limit.*
